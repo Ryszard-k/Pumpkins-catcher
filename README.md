@@ -2,9 +2,9 @@
 
 Simple game of physical skill based on C# language and Unity environment.
 The game has some very simple concepts. The player must:
-*Avoid falling obstacles
-*Collect pumpkins
-*Don't fall outside board
+* Avoid falling obstacles
+* Collect pumpkins
+* Don't fall outside board
 
 # Game controls
 
